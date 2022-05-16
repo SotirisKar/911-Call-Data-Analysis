@@ -12,3 +12,5 @@ For this capstone project we will be analyzing some 911 call data from [Kaggle](
 * twp: String variable, Township
 * addr: String variable, Address
 * e: String variable, Dummy variable (always 1)
+
+Based on Udemy's 'Python for Data Science and Machine Learning' Bootcamp course.
